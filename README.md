@@ -1,4 +1,4 @@
-Probar demo : https://ubiquitous-speculoos-d91ed0.netlify.app/
+Probar demo (No responsive) : https://ubiquitous-speculoos-d91ed0.netlify.app/
 
 
 
